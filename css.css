@@ -1,0 +1,189 @@
+.topnav{
+    display: flex;
+    flex-direction: row;
+    }
+    
+    .right{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    right: 0
+    }
+    
+    .active{
+    padding-left: 25px;
+    }
+    
+    img{
+    height: 25px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    }
+    
+    .dropbtn {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+    padding: 16px;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    }
+    .dropbtn:hover{
+    background-color: gray;
+    }
+    
+    .button{
+    width: 15px;
+    height: 1px;
+    background-color: black;
+    margin-top: 6px;
+    }
+    
+    #bars{
+    padding-top: 15px;
+    padding-left: 10px;
+    color: black;
+    }
+    
+    #icons1{
+    padding-top: 16px;
+    padding-left: 10px;
+    color: black;
+    }
+    
+    #icons2{
+    padding-top: 16px;
+    padding-left: 10px;
+    color: black;
+    }
+    
+    #icons3{
+    padding-top: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    }
+    
+    .design{
+    font-family: Arial;
+    font-size: 13px;
+    color: white;
+    background-color: RGB(123, 104, 238);
+    border-radius: 5px;
+    border-style: transparent;
+    padding: 10px;
+    }
+    
+    .designdiv{
+    padding-top: 7px;
+    padding-left: 15px;
+    padding-right: 8px;
+    }
+    
+    .profile{
+    height: 30px;
+    padding-left: 15px;
+    }
+    
+    .sidenav{
+    height: 100%; 
+    width: 250px;
+    position: fixed;
+    left: 0;
+    background-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: gray;
+    padding-top: 5px;
+    font-family: Arial;
+    }
+    
+    #items{
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+    }
+    
+    .team{
+    font-weight: bold;
+    font-size: 15px;
+    }
+    
+    .user{
+    font-size: 10px;
+    }
+    
+    .home{
+    font-size: 15px;
+    }
+    
+    .templates{
+    font-size: 15px;
+    }
+    
+    .projects{
+    font-size: 15px;
+    }
+    
+    .tools{
+    font-size: 10px;
+    }
+    
+    .brand{
+    font-size: 15px;
+    }
+    
+    .content{
+    font-size: 15px;
+    }
+    
+    .discover{
+    font-size: 15px;
+    
+    }
+    
+    .smart{
+    font-size: 15px;
+    } 
+    
+    .invite{
+    font-size: 15px;
+    }
+    
+    .trash{
+    font-size: 15px;
+    }
+    
+    .bottom{
+    position: fixed;
+    bottom: 0;
+    }
+    
+    .middle{
+    position: relative; left: 300px; top: 20px;
+    width: 1050px;
+    height: 230px;
+    background-color: RGB(123, 104, 238);
+    border-radius: 5px;
+    padding: 20px;
+    }
+    
+    .what{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 40px;
+    }
+    
+    .search{
+    position: relative; left: 170px;
+    width: 700px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: white;
+    }
+    
